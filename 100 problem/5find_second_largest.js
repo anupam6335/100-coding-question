@@ -1,4 +1,6 @@
-// Write a program to find the second largest element in an array.
+/*******************************************************************
+ * WRITE A PROGRAM TO FIND THE SECOND LARGEST ELEMENT IN AN ARRAY. *
+ *******************************************************************/
 
 // using two variable
 
